@@ -1,0 +1,20 @@
+== COPYRIGHT NOTICE ==
+
+Shotgun - Parallel Solver for the Lasso and L1-Regularized Logistic Regression
+
+Copyright 2011 Joseph K. Bradley, Aapo Kyrola, Danny Bickson, and Carlos Guestrin 
+
+   This product includes software developed at
+   the Carnegie Mellon University for the following paper:
+
+    Joseph K. Bradley, Aapo Kyrola, Danny Bickson, and Carlos Guestrin (2011). 
+    "Parallel Coordinate Descent for L1-Regularized Loss Minimization." 
+    International Conference on Machine Learning (ICML 2011).
+
+   
+   Please cite the work above for any software or research article that utilizes 
+   contributions of this work.
+   
+   
+   
+

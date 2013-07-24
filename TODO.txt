@@ -1,0 +1,3 @@
+
+* For Lasso, we could easily return the regularization path interim solutions for easier cross-validation.
+
