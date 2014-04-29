@@ -76,8 +76,8 @@ void convert_2_mat(const char * filename, shotgun_data * prob )
 
     prob->A_cols = new std::vector<sparse_array>();
     prob->A_rows = new std::vector<sparse_array>();
-    (*prob->A_cols).reserve(N);
-    (*prob->A_rows).reserve(M);
+    (*prob->A_cols).resize(N);
+    (*prob->A_rows).resize(M);
 
     for (i=0; i<nz; i++)
     {
